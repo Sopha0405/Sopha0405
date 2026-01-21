@@ -61,39 +61,31 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
-<br/>
-
-<h1>
-  <b><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/> My Statistics </b>
-</h1>
-
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/> My Statistics
 <hr>
-<table align="center" border="0" cellpadding="0" cellspacing="0" hide_border=true>
+
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-     <td align="center" width="300">
+    <td align="center" width="300">
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4aWowODExdDNnaXlobHE5bDRxcmZhdG5tM2E3cDFiYjl6cHBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"
         width="260"
-        alt="Coding GIF"
       />
     </td>
-     <td align="center" width="340">
+    <td align="center" width="340">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sopha0405&layout=compact&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sopha0405&layout=compact&theme=chartreuse-dark&hide_border=true"
         width="320"
-        alt="Top Languages"
       />
     </td>
     <td align="center" width="420">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=sopha0405&show_icons=true&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api?username=sopha0405&show_icons=true&theme=chartreuse-dark&hide_border=true"
         width="400"
-        alt="GitHub Stats"
       />
     </td>
   </tr>
 </table>
+
+
 <hr>
-
-
-

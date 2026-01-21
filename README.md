@@ -69,7 +69,7 @@ if __name__ == '__main__':
     <td align="center" width="300">
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4aWowODExdDNnaXlobHE5bDRxcmZhdG5tM2E3cDFiYjl6cHBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"
-        width="380"
+        width="350"
       />
     </td>
     <td align="center" width="840">

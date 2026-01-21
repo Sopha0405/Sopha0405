@@ -75,11 +75,11 @@ if __name__ == '__main__':
     <td align="center" width="840">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sopha0405&layout=compact&theme=chartreuse-dark&hide_border=true"
-        width="350"
+        width="300"
       />
       <img 
         src="https://github-readme-stats.vercel.app/api?username=sopha0405&show_icons=true&theme=chartreuse-dark&hide_border=true"
-        width="420"
+        width="400"
       />
     </td>
   </tr>

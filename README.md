@@ -69,19 +69,17 @@ if __name__ == '__main__':
     <td align="center" width="300">
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4aWowODExdDNnaXlobHE5bDRxcmZhdG5tM2E3cDFiYjl6cHBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"
-        width="260"
+        width="380"
       />
     </td>
-    <td align="center" width="340">
+    <td align="center" width="840">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sopha0405&layout=compact&theme=chartreuse-dark&hide_border=true"
-        width="320"
+        width="350"
       />
-    </td>
-    <td align="center" width="420">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=sopha0405&show_icons=true&theme=chartreuse-dark&hide_border=true"
-        width="400"
+        width="420"
       />
     </td>
   </tr>

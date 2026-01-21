@@ -52,6 +52,8 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
@@ -69,10 +71,10 @@ if __name__ == '__main__':
     <td align="center" width="300">
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4aWowODExdDNnaXlobHE5bDRxcmZhdG5tM2E3cDFiYjl6cHBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"
-        width="350"
+        width="320"
       />
     </td>
-    <td align="center" width="840">
+    <td align="center" width="700">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sopha0405&layout=compact&theme=chartreuse-dark&hide_border=true"
         width="300"
